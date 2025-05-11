@@ -7712,7 +7712,7 @@ snapshots:
       domhandler: 5.0.3
       htmlparser2: 10.0.0
       picocolors: 1.1.1
-      postcss: 8.5.3
+      postcss: 8.5.2
       postcss-media-query-parser: 0.2.3
 
   beasties@0.3.3:
